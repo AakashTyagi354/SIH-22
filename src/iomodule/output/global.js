@@ -1,0 +1,3 @@
+const myObj = [];
+
+export {myObj}

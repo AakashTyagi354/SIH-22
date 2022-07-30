@@ -1,0 +1,20 @@
+.iomoduleCheckbox{
+   
+    width: 100%;
+    height: 100%;
+    display: flex;
+    margin-left: 300px;
+   
+}
+.boxcheck{
+    padding-right: 20px;
+    letter-spacing: 1px;
+}
+.checkBtn{
+    margin-left: 10px;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+.ioimg{
+    margin-top: 224px;
+}

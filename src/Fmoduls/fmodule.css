@@ -1,0 +1,31 @@
+.fmodule{
+    height: 78vh;
+   
+    display: flex;
+    flex-direction: column;
+
+}
+.moduleTop{
+    flex: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.moduleBottom{
+    flex: 10;
+}
+.checkbox{
+
+}
+.modulebtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 30px;
+    background-color: brown;
+    margin-left: 80px;
+    margin-top: 10px;
+    color: white;
+    cursor: pointer;
+}
